@@ -23,7 +23,7 @@ Refer to individual release notes for detailed information on changes.
 
 ## ⚠️ Notes
 - Download only from official releases
-- Download is also available only at [https://deviceopticalaid.com] and [https://doa-app-web.vercel.app]other domains
+- Download is also available only at [https://deviceopticalaid.com/download] and [https://doa-app-web.vercel.app] other domains are unknown and may contain unsecured versions of the software
 - Verify checksums or signatures if provided  
 
 ## 🔗 Main Project
