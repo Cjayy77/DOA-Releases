@@ -28,4 +28,4 @@ Refer to individual release notes for detailed information on changes.
 
 ## 🔗 Main Project
 Source code and documentation:  
-[repo access restricted to authorized people only]
+[repo access restricted to authorized personel only]
