@@ -7,7 +7,7 @@ Each release may include:
 - Compiled binaries / executables  
 - Source snapshots (if applicable)  
 - Release notes and changelog  
-
+ 
 ## 🚀 Download
 Navigate to the **Releases** section of this repository and choose the desired version.
 
