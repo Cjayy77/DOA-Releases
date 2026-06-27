@@ -1,4 +1,6 @@
-<img src="doaBanner.png" width="35%" /> 
+<div align="center">
+  <img src="doaBanner.png" width="45%" />
+</div>
 # Project Releases   
                 
 This repository hosts official release builds for **DOA Desktop App**.      
