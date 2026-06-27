@@ -1,3 +1,4 @@
+<img src="doaBanner.png" width="35%" /> 
 # Project Releases   
                 
 This repository hosts official release builds for **DOA Desktop App**.      
