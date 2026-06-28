@@ -22,7 +22,7 @@ This project follows semantic versioning:
 - **MINOR** — Backward-compatible features  
 - **PATCH** — Bug fixes  
 
-## 📄 Changelog
+## Changelog
 Refer to individual release notes for detailed information on changes.
 
 ## ⚠️ Notes
