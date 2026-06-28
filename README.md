@@ -12,7 +12,7 @@ Each release may include:
 - Source snapshots (if applicable)   
 - Release notes and changelog  
  
-## 🚀 Download
+## Download
 Navigate to the **Releases** section of this repository and choose the desired version.
  
 ## 📝 Versioning
