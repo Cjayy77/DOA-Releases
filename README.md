@@ -25,7 +25,7 @@ This project follows semantic versioning:
 ## Changelog
 Refer to individual release notes for detailed information on changes.
 
-## ⚠️ Notes
+## Notes
 - Download only from official releases
 - Download is also available only at [https://deviceopticalaid.com/download] and [https://doa-app-web.vercel.app/download]. Other domains are unknown and may contain unsecured versions of the software
 - Verify checksums or signatures if provided  
