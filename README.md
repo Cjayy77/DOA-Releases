@@ -15,7 +15,7 @@ Each release may include:
 ## Download
 Navigate to the **Releases** section of this repository and choose the desired version.
  
-## 📝 Versioning
+## Versioning
 This project follows semantic versioning:
 
 - **MAJOR** — Breaking changes  
