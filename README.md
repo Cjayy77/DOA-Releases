@@ -4,7 +4,7 @@
 
 # Project Releases    
                   
-This repository hosts official release builds for **DOA Desktop App**.       
+This repository hosts official release builds for **DOA Desktop App**.        
      
 ## Contents
 Each release may include: 
