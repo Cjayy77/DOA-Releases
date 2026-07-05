@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="doaBanner.png" width="45%" />
+  <img src="doaBanner.png" width="45%" /> 
 </div>
 
 # Project Releases    
