@@ -8,7 +8,7 @@ This repository hosts official release builds for **DOA Desktop App**.
      
 ## Contents  
 Each release may include:  
-- Compiled binaries / executables  
+- Compiled binaries / executables   
 - Source snapshots (if applicable)   
 - Release notes and changelog  
   
