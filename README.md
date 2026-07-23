@@ -6,7 +6,7 @@
                    
 This repository hosts official release builds for **DOA Desktop App**.        
      
-## Contents  
+## Contents   
 Each release may include:  
 - Compiled binaries / executables   
 - Source snapshots (if applicable)   
